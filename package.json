@@ -1,0 +1,13 @@
+{
+  "name": "adguard-home-startos",
+  "dependencies": {
+    "@start9labs/start-sdk": "3.1.1",
+    "bcryptjs": "2.4.3"
+  },
+  "overrides": {
+    "@start9labs/start-sdk": "$@start9labs/start-sdk"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "2.4.6"
+  }
+}
